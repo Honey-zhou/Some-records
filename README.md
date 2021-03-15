@@ -1,6 +1,2 @@
 #Some-records
-git init //初始化仓库
-
-
-
-
+1fee049891b1c9ffa42362719266a6e13605fa4f
